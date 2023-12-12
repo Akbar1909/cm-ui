@@ -1,0 +1,39 @@
+.simplebar-placeholder{
+    /* display: none; */
+}
+td,th{
+    padding: 6px !important;
+}
+
+.apexcharts-legend-marker{
+    min-width: 12px;
+    min-height: 12px;
+}
+.apexcharts-legend{
+    display: flex !important;
+    justify-content: flex-start !important;
+    flex-wrap: wrap;
+}
+
+iframe#webpack-dev-server-client-overlay{
+    display: none;
+}
+
+.large-icon{
+    width: 20px;
+    height: 20px;
+}
+
+.medium-icon{
+    width: 16px;
+    height: 16px;
+}
+
+.small-icon{
+    width: 13px;
+    height: 13px;
+}
+
+
+
+
